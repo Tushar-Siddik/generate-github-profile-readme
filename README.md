@@ -168,3 +168,6 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 <p align="center">
 Developed with ❤️ in India 🇮🇳 
 </p>
+
+Setup:
+- run '''npm i && npm start''' for both client and server side to start the development server
